@@ -1,8 +1,12 @@
 ### Hi there, I'm Ewelina 👋
-#🔭 I’m learning how to code and expanding my knowledge in various programming languages and frameworks.
-#🌱 I’m currently learning about cryptography and programming in Swift.
-#⚡ Fun fact: Fun fact: I have a great fondness for both cats and dogs, and I thoroughly enjoy listening to music!
-#📫 You can reach me via email: eborkowsk@gmail.com
+<br />
+🔭 I’m learning how to code and expanding my knowledge in various programming languages and frameworks.
+<br />
+🌱 I’m currently learning about cryptography and programming in Swift.
+<br />
+⚡ Fun fact: Fun fact: I have a great fondness for both cats and dogs, and I thoroughly enjoy listening to music!
+<br />
+📫 You can reach me via email: eborkowsk@gmail.com
 <!--
 **Eborkowska/Eborkowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
