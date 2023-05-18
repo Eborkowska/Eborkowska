@@ -1,5 +1,4 @@
 ### Hi there, I'm Ewelina 👋
-<br />
 🔭 I’m learning how to code and expanding my knowledge in various programming languages and frameworks.
 <br />
 🌱 I’m currently learning about cryptography and programming in Swift.
