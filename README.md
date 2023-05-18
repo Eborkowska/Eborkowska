@@ -3,7 +3,7 @@
 <br />
 🌱 I’m currently learning about cryptography and programming in Swift.
 <br />
-⚡ Fun fact: Fun fact: I have a great fondness for both cats and dogs, and I thoroughly enjoy listening to music!
+⚡ Fun fact: I have a great fondness for both cats and dogs, and I thoroughly enjoy listening to music!
 <br />
 📫 You can reach me via email: eborkowsk@gmail.com
 <!--
